@@ -1,8 +1,8 @@
-package com.agustintormun.tmdbclient.api
+package com.agustintormun.tmdbclient.data.api
 
-import com.agustintormun.tmdbclient.data.ArtistList
-import com.agustintormun.tmdbclient.data.MovieList
-import com.agustintormun.tmdbclient.data.TVShowsList
+import com.agustintormun.tmdbclient.data.model.artist.ArtistList
+import com.agustintormun.tmdbclient.data.model.movie.MovieList
+import com.agustintormun.tmdbclient.data.model.tv.TVShowsList
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query

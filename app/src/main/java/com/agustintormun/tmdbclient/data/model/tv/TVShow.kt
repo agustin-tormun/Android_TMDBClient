@@ -1,4 +1,4 @@
-package com.agustintormun.tmdbclient.data
+package com.agustintormun.tmdbclient.data.model.tv
 
 
 import com.google.gson.annotations.SerializedName
