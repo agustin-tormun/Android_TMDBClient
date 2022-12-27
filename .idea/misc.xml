@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/agust/Android_dev/TMDBClient/app/src/main/res/layout/activity_main.xml" value="0.10891590678824721" />
+        <entry key="..\:/agust/Android_dev/TMDBClient/app/src/main/res/drawable/btn_rounded.xml" value="0.2605" />
+        <entry key="..\:/agust/Android_dev/TMDBClient/app/src/main/res/layout/activity_artist.xml" value="0.2613981762917933" />
+        <entry key="..\:/agust/Android_dev/TMDBClient/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/agust/Android_dev/TMDBClient/app/src/main/res/layout/activity_movie.xml" value="0.2613981762917933" />
+        <entry key="..\:/agust/Android_dev/TMDBClient/app/src/main/res/layout/activity_tvshow.xml" value="0.2613981762917933" />
       </map>
     </option>
   </component>
